@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bolog\\Desktop\\BetterTGUserChecker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F496057-6D14-45E9-AC37-F5DC06617098}|BetterTGUserChecker.csproj|c:\\users\\bolog\\desktop\\bettertguserchecker\\bettertguserchecker.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1F496057-6D14-45E9-AC37-F5DC06617098}|BetterTGUserChecker.csproj|solutionrelative:bettertguserchecker.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BetterTGUserChecker",
+              "DocumentMoniker": "C:\\Users\\bolog\\Desktop\\BetterTGUserChecker\\BetterTGUserChecker.csproj",
+              "RelativeDocumentMoniker": "BetterTGUserChecker.csproj",
+              "ToolTip": "C:\\Users\\bolog\\Desktop\\BetterTGUserChecker\\BetterTGUserChecker.csproj",
+              "RelativeToolTip": "BetterTGUserChecker.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-01T15:24:08.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
